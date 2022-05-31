@@ -1,3 +1,4 @@
 # Beosztás kezelése
 
-Verzió 0.0.1 
+Verzió 1.0.0 
+Published version-

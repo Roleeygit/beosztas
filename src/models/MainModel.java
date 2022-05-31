@@ -22,21 +22,28 @@ public class MainModel {
         new Vector<>(Arrays.asList(BeosztasArray)); 
     Worker[] workerArray = {
         new Worker(1, "Pala Sándor", 1),
-        new Worker(2, "Alga Irén", 1),
-        new Worker(3, "Rota Valér", 2),
-        new Worker(4, "Siku Ferenc", 3),
-        new Worker(5, "Hari Béla", 3),
-        new Worker(6, "Közle Mihály", 4),
-        new Worker(7, "Csont Emőke", 4),
-        new Worker(8, "Ete Levente", 5),
-        new Worker(9, "Erős István", 6),
-        new Worker(10, "Remek Elek", 7),
-        new Worker(11, "Erő Jenő", 7),
-        new Worker(12, "Kiss Áron", 8),
-        new Worker(13, "Szép Ilona", 8),
-        new Worker(14, "Cserepes Virág", 8),
-        new Worker(15, "Uzumaki Naruto", 9),
-        new Worker(16, "Gubis Zsombor", 10),
+        new Worker(1, "Pala Imre", 2),
+
+        new Worker(2, "Alga Irén", 3),
+        new Worker(2, "Erős Jenő", 4),
+        new Worker(2, "Koszos Kelemen", 5),
+
+        new Worker(3, "Rota Valér", 6),
+
+        new Worker(4, "Siku Ferenc", 7),
+
+        new Worker(5, "Hari Béla", 8),
+
+        new Worker(6, "Közle Mihály", 9),
+
+        new Worker(7, "Csont Emőke", 10),
+
+        new Worker(8, "Ete Levente", 11),
+
+        new Worker(9, "Erős István", 12),
+
+        new Worker(10, "Gubis Zsombor", 13),
+
     };
     public Vector<Worker> workerList =
         new Vector<>(Arrays.asList(workerArray));
