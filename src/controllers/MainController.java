@@ -35,7 +35,7 @@ public class MainController {
         int selectedGroupId = index + 1;
         this.mainModel.workerList.forEach(worker -> {
             
-            if(selectedGroupId == worker.id) {
+            if(selectedGroupId == worker.id) { 
                 System.out.println(worker.name);
                 
             }

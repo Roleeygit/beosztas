@@ -38,6 +38,6 @@ public class MainFrame extends JFrame {
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setSize(400, 300);
         this.setVisible(true);
-        this.setTitle("Juhász Roland");
+        this.setTitle("Juhász Roland Szoft I N, 2022-05-31");
     }
 }
