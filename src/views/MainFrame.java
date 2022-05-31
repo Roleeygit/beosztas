@@ -4,7 +4,7 @@
 * Copyright: 2021, Juhász Roland
 * Group: Szoft I N
 * Date: 2021-05-31
-* Github: https://github.com/Roleeygit/javagui_beo
+* Github: https://github.com/Roleeygit/beosztas
 * Licenc: GNU GPL
 */
 package views;
